@@ -119,10 +119,9 @@ libraries = {
 "": SubResource("AnimationLibrary_n6hfs")
 }
 
-[node name="VelocityComponent" parent="." node_paths=PackedStringArray("pivot") instance=ExtResource("2_ytiqt")]
-max_speed = 90
+[node name="VelocityComponent" parent="." instance=ExtResource("2_ytiqt")]
+max_speed = 125
 acceleration = 25.0
-pivot = NodePath("../Pivot")
 
 [node name="HealthComponent" parent="." instance=ExtResource("2_v70s1")]
 
