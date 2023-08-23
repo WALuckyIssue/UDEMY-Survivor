@@ -1,8 +1,12 @@
+res://scenes/component
 res://scenes/UI
+res://resources/theme
+res://scenes/game_object/wizard_enemy
+res://scenes/ability/axe_ability
+res://scenes/ability/axe_ability_controller
 res://scenes/manager
 res://resources/upgrades
 res://scenes/autoload
-res://scenes/component
 res://scenes/game_object
 res://scenes/ability/sword_ability_controller
 res://scenes/ability/sword_ability
