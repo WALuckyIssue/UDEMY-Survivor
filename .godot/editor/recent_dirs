@@ -1,0 +1,10 @@
+res://scenes/UI
+res://scenes/manager
+res://resources/upgrades
+res://scenes/autoload
+res://scenes/component
+res://scenes/game_object
+res://scenes/ability/sword_ability_controller
+res://scenes/ability/sword_ability
+res://utility
+res://scenes/main
