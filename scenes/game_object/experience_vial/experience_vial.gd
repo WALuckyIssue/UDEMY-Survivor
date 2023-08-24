@@ -39,5 +39,6 @@ func on_area_entered(other_area: Area2D):
 	tween.chain()
 	tween.tween_callback(collect)
 	
+	$HitRandomAudioPlayerComponent.play_random()
 	
 
